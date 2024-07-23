@@ -1,5 +1,5 @@
 void main() {
-  int percentage = 70;
+  int percentage = 50;
   if (percentage < 40) {
     print("fail");
   } else {
